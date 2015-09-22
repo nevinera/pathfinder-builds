@@ -1,5 +1,33 @@
 # Level 1
 
+Abi | V  | M 
+----|----|---
+STR | 6  | -2
+DEX | 9  | -1
+CON | 12 | +1
+INT | 12 | +1
+WIS | 14 | +2
+CHA | 20 | +5
+
+Save | Total | Frac | Base | Boost | Abi | Bonuses
+-----|-------|------|------|-------|-----|--------
+Fort |  +1   | 0.33 |  0   |   0   | +1  | +1 halfling luck
+Refl |  +6   | 0.33 |  0   |   0   | +5  | +1 halfling luck, Cha v Dex Sidestep
+Will |  +5   | 0.50 |  0   |   2   | +2  | +1 halfling luck (+2 vs fear)
+
+Stat    | Value       | Bonuses
+--------|-------------|---------
+AC      | 20          | Sidestep, Studded Leather, Buckler, Size
+Touch AC| 16          | sidestep, size
+Flat Ft | 14          | buckler, studded leather
+Max HP  | 9           | d8, Con
+Init    | -1          | Dex
+BAB     | 0 (0.75)    | 
+Speed   | 20'         | 
+
+
+
+
 * Abilities: 6/9/12, 12/14/20
 * Classes: Oracle 1, Wilder 1
 * Saves: (0.33/0.33/0.5) 0/0/0 + 1/1/1 + 0/0/2 + 0/5/2 -> 1/6/5  (Sidestep, halfling). +2 vs fear.

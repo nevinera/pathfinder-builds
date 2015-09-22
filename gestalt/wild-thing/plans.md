@@ -17,7 +17,7 @@ more viable.
 * Aegis 3: The utility from Aegis + Student of the Astral Suit is huge
 * Ninja X: Sneak attack blasting, ki pool from Cha, ki powers (vanishing trick!)
 * Paladin 2: Divine Grace, Smite evil (AC and to-hit from Cha), 4d6 of LoH per day, detect evil
-* Cleric 1: Protection Domain = +1 to all saves, Knowledge = all knowledges as class skills
+* Cleric 1: Protection Domain = +1 to all saves, Memory = reroll knowledges 5/day
 * Oracle (seeker) 1: Legalistic curse, Lore Mystery: Sidestep Secret (Cha instead of Dex to AC
   and Refl), Tinkering from Seeker gets us trapfinding for nothing.
 * Shadowdancer 1: Hide in Plain Sight
@@ -35,7 +35,7 @@ more viable.
 * Stalker 1           Extra trick, stealth stance
 * Shadowdancer 1      Hide in Plain Sight
 * Monk (Kata Master)  Panache pool from Cha, two deeds to use it (physical skills, dodge). +2 AC
-* Cleric 1            +1 to all saves, bonus to all knowledges
+* Cleric 1            +1 to all saves, Reroll knowledge skills 5/day (Protection, Memory)
 * Ninja 3-10          More sneak attack, ki, tricks.
 
 ### Playbook

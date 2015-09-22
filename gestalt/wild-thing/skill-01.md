@@ -5,13 +5,13 @@ Skill                | T | Total | Ranks | C | Abl | Mod | Other Bonuses
 Acrobatics           |   |  -1   |       | x | Dex |  -1 |                         
 Appraise             |   |  +1   |       | x | Int |  +1 |                         
 Bluff                |   |  +5   |       | x | Cha |  +5 |                         
-Climb                |   |  -2   |       | x | Str |  -2 |                         
+Climb                |   |  -3   |       | x | Str |  -3 |                         
 Diplomacy            |   |  +9   |   1   | x | Cha |  +5 |                         
-Disable Device       | x |       |       | x | Dex |  -1 |                         
+Disable Device       | x |       |       | x | Dex |  +1 |                         
                      |   |       |       |   |     |     |                         
 Disguise             |   |  +5   |       |   | Cha |  +5 |                         
-Escape Artist        |   |  -1   |       | x | Dex |  -1 |                         
-Fly                  |   |  -1   |       |   | Dex |  -1 |                         
+Escape Artist        |   |  +1   |       | x | Dex |  +1 |                         
+Fly                  |   |  +1   |       |   | Dex |  +1 |                         
 Handle Animal        | x |       |       |   | Cha |  +5 |                         
 Heal                 |   |  +6   |   1   | x | Wis |  +2 |                         
 Intimidate           |   |  +5   |       | x | Cha |  +5 |                         
@@ -30,14 +30,14 @@ Know (Religion)      | x |  +5   |   1   | x | Int |  +1 |
 Linguistics          | x |       |       |   | Int |  +1 |                         
 Perception           |   |  +10  |   1   | x | Wis |  +2 | +2 racial, +2 Alertness 
 Perform (Dance)      |   |  +5   |       |   | Cha |  +5 |                         
-Ride                 |   |  -1   |       |   | Dex |  -1 |                         
+Ride                 |   |  +1   |       |   | Dex |  +1 |                         
 Sense Motives        |   |  +4   |       |   | Wis |  +2 | +2 Alertness            
-Sleight of Hand      | x |       |       | x | Dex |  -1 |                         
+Sleight of Hand      | x |       |       | x | Dex |  +1 |                         
                      |   |       |       |   |     |     |                         
 Spellcraft           | x |       |       | x | Int |  +1 |                         
-Stealth              |   |  +7   |   1   |   | Dex |  -1 | +4 size, +3 Psicrystal  
+Stealth              |   |  +9   |   1   |   | Dex |  +1 | +4 size, +3 Psicrystal  
 Survival             |   |  +2   |       |   | Wis |  +2 |                         
-Swim                 |   |  -2   |       |   | Str |  -2 |                         
+Swim                 |   |  -3   |       |   | Str |  -3 |                         
 Use Magic Device     | x |  +9   |   1   | x | Cha |  +5 |                         
 
 ### Notes

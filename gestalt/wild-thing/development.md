@@ -2,8 +2,8 @@
 
 ### Before Levels
 * Halfling (Alternate Racial Trait: Swift as Shadows)
-* Abilities (Start): 6/9/12, 12/14/20
-* Traits: Focused Mind, Armor Expert
+* Abilities (Start): 5/12/10, 12/14/20
+* Traits: Focused Mind, Psigifted (Energy Ray)
 * Starting Equipment: Studded Leather, Buckler, 20' thin wire, wire cutters, 4 stakes, 4 screws,
                       2 wedges, dice in cup, iron holy symbol, 20' light cord
 
@@ -11,7 +11,6 @@
 * Saves: 0.33/0.33/0.5
 * HD: d8
 * BAB: 0.75
-* Feat: Extra Revelation (Focused Trance)
 * Favored Class Bonus: +1 Skill
 * Level 1 Feat: Speed of Thought (psionic; +10 speed)
 * Skills (7): Diplomacy, Heal, Know(History), Know(Religion), Perception, Stealth, UMD
@@ -24,7 +23,7 @@
   - Wild Surge +1 (Student's Surge)
     * Psicrystal Affinity (personality: sneaky )
   - Surge Blast +1
-  - Powers (4pp): Mind Thrust
+  - Powers (4pp): Energy Ray
 
 ### Level 2
 * Saves: 0.83/0.66/1.0

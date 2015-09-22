@@ -1,17 +1,17 @@
-# Level 1
+# Jillian, Level 1 Halfling Wilder/Everything
 
 Abi | V  | M 
 ----|----|---
-STR | 6  | -2
-DEX | 9  | -1
-CON | 12 | +1
+STR | 5  | -3
+DEX | 12 | +1
+CON | 10 |  0
 INT | 12 | +1
 WIS | 14 | +2
 CHA | 20 | +5
 
 Save | Total | Frac | Base | Boost | Abi | Bonuses
 -----|-------|------|------|-------|-----|--------
-Fort |  +1   | 0.33 |  0   |   0   | +1  | +1 halfling luck
+Fort |  +0   | 0.33 |  0   |   0   | +0  | +1 halfling luck
 Refl |  +6   | 0.33 |  0   |   0   | +5  | +1 halfling luck, Cha v Dex Sidestep
 Will |  +5   | 0.50 |  0   |   2   | +2  | +1 halfling luck (+2 vs fear)
 
@@ -20,67 +20,60 @@ Stat    | Value       | Bonuses
 AC      | 20          | Sidestep, Studded Leather, Buckler, Size
 Touch AC| 16          | sidestep, size
 Flat Ft | 14          | buckler, studded leather
-Max HP  | 9           | d8, Con
-Init    | -1          | Dex
+Max HP  | 8           | d8
+Init    | +1          | Dex
 BAB     | 0 (0.75)    | 
-Speed   | 20'         | 
+CMB     | -4          | str, size
+CMD     | 8           | str, dex, size
+Speed   | 30'         | +10 Speed of Thought feat
 
+### Active
 
+* Surge Blast: Standard Action, Spend Focus, 30' ranged touch attack for 1d6
+* Wild Surge: when manifesting; +1 to manifester level, +1 free pp of augmentation, 15% enervation
+* Full Surge: manifest 1 pp power for free, 30% enervation, every ten minutes
+* Enervation: Dazzled for 1 round, lose 1 pp. Dazzled self-stacks.
+* Orison
+  - Light: Touch, object glows like a torch for 10m. Only one at a time.
+  - Resistance: Touch, +1 resistance bonus on saves for 1m
+  - Guidance: Touch, +1 on one attack roll, saving throw, or skill check in the next minute
+  - Read Magic: Decipher magical writing for 10m
+* Level 1 Oracle Spells (5/day)
+  - Bane: 50' burst from you, -1 attack and -1 vs fear, lasts 1m. Will Save 16
+  - Tap Inner Beauty: +2 insight bonus on all cha-based checks for 1m
+  - Cure Light Wounds: Touch, cure 1d8+1. Harms undead, will save 16 for half.
+* Psionic Powers (4 pp/day)
+  - Energy Ray: 25' touch attack for 1d6 (energy type from focus)
+    * Attack Bonus: -1
+    * Effective Manifester level +1 (Psigifted)
+    * Cold, Fire: +1 damage per die
+    * Electricity: +3 attack if they're in metal armor, +2 manifester level against SR
+    * Sonic: -1 damage per die, ignore hardness
+    * Augment: each pp adds 1d6.
+    * Free Option: spend focus, costs 0pp, damage die is 1d3, no augments allowed
 
+### Passive
+* +2 to Concentration checks
+* 1/day make a vow to myself: +4 bonus on any roll while fulfilling a promise.
 
-* Abilities: 6/9/12, 12/14/20
-* Classes: Oracle 1, Wilder 1
-* Saves: (0.33/0.33/0.5) 0/0/0 + 1/1/1 + 0/0/2 + 0/5/2 -> 1/6/5  (Sidestep, halfling). +2 vs fear.
-* AC: 20 (sidestep, studded leather, buckler, halfling)
-* BAB: 0.75 -> 0
-* HP: 1d8 -> 9 HP (Con)
-* Racial:
-  - Small (+1 AC, +1 attack, -1 CMB/CMD, +4 stealth)
-  - Base speed 20'
-  - Fearless: +2 vs fear
-  - Luck: +1 all saves
-  - Keen Senses: +2 Perception
-  - Swift as Shadows: reduce penalty for stealth while moving by 5, sniping by 10.
-* Traits:
-  - Focused Mind: +2 to concentration checks
-  - Armor Expert: reduce armor check penalty by 1
-* Feats:
-  - (1) Extra Revelation: Focused Trance
-  - (w1) Psicrystal Affinity
-  - (Psi) Alertness: +2 on perception and sense motive
-* Passives:
-  - Oracle Curse: Legalistic
-  - Oracle Revelation: Sidestep Secret
-  - Oracle Revelation: Focused Trance
-* Oracle Orisons:
-  - Light
-  - Resistance
-  - Guidance
-  - Read Magic
-* Oracle Spells (5/day):
-  - Level 1
-    - Bane (50' burst from you: -1 to attack -1 vs fear)
-    - Tap Inner Beauty (+2 on cha-based skill check)
-    - cure light wounds (touch, d8+1)
-* Powers (4 pp)
-  - Mind Thrust: 1d10 per point spent. +1 DC for each 2pp of augments. (Will DC 16)
-* Wild Surge (Student's Surge)
-  - choose when manifesting -> 15% enervation chance
-  - +1 to manifester level (DC)
-  - +1 point of free augment
-  - can spend focus to manifest free, producing 1pp of power -> 30% enervation chance. 10m recharge.
-  - enervation: Dazzled for 1 round, lose 1 pp, stacking.
-* Psicrystal:
-  - personality: Sneaky - +3 on stealth checks
-  - saves: 5/0/4 (abilities and base)
-  - min 4 ranks in perception and stealth, but otherwise same as me
-  - +0 armor, +0 int
-  - Alertness to me while nearby
-  - improved evasion
-  - (standard action of mine) can grow spidery legs and walk around: move 30, climb 20.
-  - can see and hear (extra perception roll?)
-  - telepathic link
-* Surge Blast: standard action, spend focus - 30' touch attack for 1d6 force damage
-* Possesions: Psicrystal, Studded Leather, Buckler, 20' thin wire, cutters, 4 stakes, 4 screws,
-              2 wedges, collection of small dice in a cup, iron holy symbol, 20 feet of light cord, 
-              
+### Psicrystal
+* Sneaky personality (+3 to my stealth)
+* Saves: 0/2/4
+* My skills, but 4 ranks in perception and stealth
+* Standard action to make it grow legs and move around: move 30, climb 20
+* Telepathic link
+
+### Equipment
+* Psicrystal
+* Studded Leather
+* Buckler
+* Crossbow, 4 bolts
+* 20' thin wire
+* cutters
+* 4 stakes
+* 4 screws
+* 2 wedges
+* collection of small dice in a cup
+* iron holy symbol (useless atm)
+* 20 feet of light cord
+* Food, water

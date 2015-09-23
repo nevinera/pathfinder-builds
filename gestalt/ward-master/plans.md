@@ -27,7 +27,7 @@ This is an unarmed variant on the warder gestalt. Inspiration from:
 
 ### Dipping Plan:
 
-* Flowing Monk 1      Maneuver Tricks, Imp Unarmed, Imp Trip
+* Maneuver Monk 1     Flurry of Maneuvers, Imp Unarmed, Imp Trip
 * Fighter (LW) 1-2    +2 skills, bonus feat x2, Combat Expertise
 * Aegis 1-2           Speed, Dex
 * Shadowdancer 1      HiPS
@@ -75,12 +75,11 @@ I don't need to spend my rounds defending. Flowing Monk will allow me to trip an
 focusing on me.
 
 Finally, I can trip. I can trip a lot of guys, and kick them on the way down (later on, twice each).
-I get a free trip attempt every time somebody tries to hit me - if I succeed, they are sick for a
-round and prone. At level 3 I can take a free AoO on them for going prone, at level 9 I can take
-*another* free AoO on them for being tripped. At this point they are prone AND sickened, for a net
--6 to attack and -2 to damage - if they had more attacks to make, it won't hurt much. Even better,
+I get a free trip attempt on each full attack. At level 3 I can take a free AoO on them for going
+prone, at level 9 I can take *another* free AoO on them for being tripped. At this point they are
+prone, for -4 to attack - if they had more attacks to make, it won't hurt much. Even better,
 once I get the 'push' feature online on my astral suit, I can use that AoO (the second one
-if I had two) to push them one square away, where they probably can't even hit my. Tack it onto
+if I had two) to push them one square away, where they probably can't even hit me. Tack it onto
 the normal Warder Zone of Control, and we are looking at a lot of prone guys with a lot of kicked
 faces - I can Trip *as* my AoO, which provokes 1-2 more AoOs. Though I may not want to take
 them - I only have 5-6 per round, and making everyone prone is usually better than killing one guy.

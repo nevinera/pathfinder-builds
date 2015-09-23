@@ -10,6 +10,7 @@
 * Saves: 0.5/0.5/0.5
 * HD: d12
 * BAB: 1.0
+* Favored Class Bonus: +1 HP
 * Level 1 Feat: Weapon Finesse
 * Skills (8):
 * Class A: Warder (Dervish Defender, Sworn Protector)
@@ -26,12 +27,11 @@
     * (PF) Panther on the Hunt (+2/+2 on a charge attack, ignore AoO)
     * (GL) Pride Movement (swift -> ally takes a move action)
   - Pugilist Stance (+1d6 to unarmed attacks)
-* Class B: Monk (Flowing Monk)
+* Class B: Monk (Maneuver Master)
   - Improved Trip
-  - Redirection (Immediate Trip/Reposition)
+  - Flurry of Maneuvers
   - Improved Unarmed Strike
   - Unarmed Damage d6
-  - Flurry of Blows -1/-1
 
 ### Level 2
 * Saves: 1.0/0.83/1.0

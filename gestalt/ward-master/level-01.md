@@ -23,7 +23,7 @@ Flat Ft | 17            | TWDef(Int), Studded Leather
 Max HP  | 14            | d12, Con, FavCls
 Init    | +6            | Dex, Trait
 BAB     | 1             |
-CMB     | +0            | BAB, Str, 
+CMB     | +0            | BAB, Str,
 CMD     | 15            | 10, BAB, Str, Dex, (+5 vs acro while defending)
 Speed   | 30'           |
 
@@ -33,11 +33,13 @@ Speed   | 30'           |
 * Throw: Starknife+5 d4-1/x3 (20')
 * Defensive Perimeter
   - Full Round, +5 threatened reach
-  - +4 to CMD vs acrobatics
+  - +5 to CMD vs acrobatics
   - Can move to get AoO (up to speed between turns)
   - Recover 4 Maneuvers
 * Defensive Intercept 5/day
   - move up to 30' to a square within 10' of Jill when she is attacked or harmfully affected
+* Fight Defensively: While attacking or full attacking declare it. -4 to attack rolls, +2 to AC
+* Total Defense: Standard action, +4 AC. Cannot AoO in total defense.
 * Maneuvers (3 readied)
   - [ ] Brawler's Attitude (boost): +4 CMB for a trip
   - [x] Flurry Strike (standard): Two unarmed attacks

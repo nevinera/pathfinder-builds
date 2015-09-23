@@ -21,7 +21,7 @@ AC      | 22            | Dex, TWDef(Int), Studded Leather, Dodge
 Touch AC| 19            | Dex, TWDef(Int), Dodge
 Flat Ft | 17            | TWDef(Int), Studded Leather
 Max HP  | 32            | d12, Con, FavCls
-Init    | +6            | Dex, Trait
+Init    | +4            | Dex
 BAB     | +3            |
 CMB     | +7            | BAB, Dex (AM), (+2 to trip: imp trip)
 CMD     | 18            | 10, BAB, Str, Dex, Dodge, (+7 vs acro while defending)

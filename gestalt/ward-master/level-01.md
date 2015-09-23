@@ -21,7 +21,7 @@ AC      | 21            | Dex, TWDef(Int), Studded Leather
 Touch AC| 18            | Dex, TWDef(Int)
 Flat Ft | 17            | TWDef(Int), Studded Leather
 Max HP  | 14            | d12, Con, FavCls
-Init    | +6            | Dex, Trait
+Init    | +4            | Dex
 BAB     | 1             |
 CMB     | +0            | BAB, Str,
 CMD     | 15            | 10, BAB, Str, Dex, (+5 vs acro while defending)

@@ -17,18 +17,17 @@ Will |  +5   | 0.50 |  0   |   2   | +2  | +1 halfling luck (+2 vs fear)
 
 Stat    | Value       | Bonuses
 --------|-------------|---------
-AC      | 20          | Sidestep, Studded Leather, Buckler, Size
-Touch AC| 16          | sidestep, size
+AC      | 20          | Sidestep(cha), Studded Leather, Buckler, Size
+Touch AC| 16          | sidestep(cha), size
 Flat Ft | 14          | buckler, studded leather
 Max HP  | 8           | d8
 Init    | +1          | Dex
-BAB     | 0 (0.75)    | 
+BAB     | 0           | 
 CMB     | -4          | str, size
 CMD     | 8           | str, dex, size
 Speed   | 30'         | +10 Speed of Thought feat
 
 ### Active
-
 * Surge Blast: Standard Action, Spend Focus, 30' ranged touch attack for 1d6
 * Wild Surge: when manifesting; +1 to manifester level, +1 free pp of augmentation, 15% enervation
 * Full Surge: manifest 1 pp power for free, 30% enervation, every ten minutes

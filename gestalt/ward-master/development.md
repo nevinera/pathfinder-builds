@@ -12,7 +12,7 @@
 * BAB: 1.0
 * Favored Class Bonus: +1 HP
 * Level 1 Feat: Weapon Finesse
-* Skills (8):
+* Skills (8): Acro, DisDevice, EscArtist, Heal, Ling, Perf(Dance), Sleight of Hand, Stealth
 * Class A: Warder (Dervish Defender, Sworn Protector)
   - Combat Reflexes w/ INT
   - Defensive Perimeter (10') to regain all maneuvers
@@ -37,13 +37,13 @@
 * Saves: 1.0/0.83/1.0
 * HD: d12
 * BAB: 2.0
-* Skills (10):
+* Skills (10): Acro, Climb, DisDevice, Heal, Know(Eng), Perf(Dance), SpellC, Stealth, Surv, Swim
 * Class A: Warder (Dervish Defender, Sworn Protector)
   - Armiger's Mark -4 (4 rounds, 5/day)
   - New Maneuver Known (now 4/6): Pommel Bash (+1d6, treat as flatfooted)
   - New Stance: Iron Hand (+2 AC)
 * Class B: Fighter (Lore Warden)
-  - +2 Knowledge skills (included above)
+  - +2 Int skills (included above)
   - Bonus Feat: Deadly Agility
 
 ### Level 3

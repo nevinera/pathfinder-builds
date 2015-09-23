@@ -23,13 +23,13 @@ Flat Ft | 17            | TWDef(Int), Studded Leather
 Max HP  | 23            | d12, Con, FavCls
 Init    | +6            | Dex, Trait
 BAB     | 2             |
-CMB     | +1            | BAB, Str,
+CMB     | +1            | BAB, Str, (+2 to trip: imp trip)
 CMD     | 16            | 10, BAB, Str, Dex, (+6 vs acro while defending)
 Speed   | 30'           |
 
 ### Active
-* Standard Attack: Fist+5 2d6+4 (or trip+2)
-* Full Attack: Trip+0, 2x Fist+3 2d6+4. (can sub trip+0 for attacks as needed)
+* Standard Attack: Fist+5 2d6+4 (or trip+3)
+* Full Attack: Trip+1, 2x Fist+3 2d6+4. (can sub trip+1 for attacks as needed)
 * Throw: Starknife+5 d4-1/x3 (20')
 * Defensive Perimeter
   - Full Round, +5 threatened reach
@@ -43,7 +43,6 @@ Speed   | 30'           |
   - target is aware of being marked
   - -4 to attack against others, +12% arcane failure chance against others
   - Target must have an Intelligence score of 1 or higher (no mindless targets)
-* Combat Expertise: While attacking or full attacking, declare it. -1 to attack rolls, +1 to AC
 * Fight Defensively: While attacking or full attacking declare it. -4 to attack rolls, +2 to AC
 * Total Defense: Standard action, +4 AC. Cannot AoO in total defense.
 * Change Stance (swift)
@@ -70,6 +69,6 @@ Speed   | 30'           |
 * Food, water
 
 ### Notes
-* This level you gained Iron Hand and Combat Expertise - now you can activate them all for -5 to
-  attack rolls and -1d6 to damage (neither of which affect maneuvers) to get +5 AC for the round.
+* This level you gained Iron Hand - now you can activate that and fight defensively to lose -4
+  attack rolls and -1d6 to damage (neither of which affect maneuvers) to get +4 AC for the round.
 * You also got Deadly Agility, so your damage will almost double.

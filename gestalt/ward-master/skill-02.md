@@ -1,8 +1,8 @@
-# Level 1 Skills
+# Level 2 Skills
 
 Skill                | T | Total | Ranks | C | Abl | Mod | Other Bonuses
 ---------------------|---|-------|-------|---|-----|-----|--------------
-Acrobatics           |   |  +8   |   1   | x | Dex | +4  |
+Acrobatics           |   |  +9   |   2   | x | Dex | +4  |
 Appraise             |   |  +4   |       | x | Int | +4  |
 Bluff                |   |  -2   |       |   | Cha | -2  |
 Climb                |   |  +3   |   1   | x | Str | -1  |
@@ -17,7 +17,7 @@ Heal                 |   |  +2   |   2   |   | Wis | +0  |
 Intimidate           |   |  -2   |       | x | Cha | -2  |
                      |   |       |       |   |     |     |
 Know (Arcana)        | x |       |       | x | Int | +4  |
-Know (Dungeoneering) | x |  +8   |   1   | x | Int | +4  |
+Know (Dungeoneering) | x |       |       | x | Int | +4  |
 Know (Engineering)   | x |  +8   |   1   | x | Int | +4  |
 Know (Geography)     | x |       |       | x | Int | +4  |
 Know (History)       | x |       |       | x | Int | +4  |
@@ -40,7 +40,3 @@ Survival             |   |  +4   |   1   | x | Wis | +0  |
 Swim                 |   |  +3   |   1   | x | Str | -1  |
 Use Magic Device     | x |       |       |   | Cha | -2  |
 
-### Notes
-* Lore Warden forces two Int skills - knowledges will get redundant soon, but a couple
-  points in it will help a lot now, and a little later.
-* You don't have trapfinding yet, but we shouldn't see any magical traps until later.

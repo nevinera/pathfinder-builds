@@ -23,6 +23,7 @@ more viable.
 * Shadowdancer 1: Hide in Plain Sight
 * Monk (Kata Master) 1: +2 Fort/Refl at first level - panache pool, dodge and skill deeds.
   - Vow of Truth for one extra ki point? I'm going to be legalistic anyway..
+* Halfling Opportunist 4: sneak attack progression, +2 saves, trapspotter
 
 ### Dipping plan:
 
@@ -36,7 +37,8 @@ more viable.
 * Shadowdancer 1      Hide in Plain Sight
 * Monk (Kata Master)  Panache pool from Cha, two deeds to use it (physical skills, dodge). +2 AC
 * Cleric 1            +1 to all saves, Reroll knowledge skills 5/day (Protection, Memory)
-* Ninja 3-10          More sneak attack, ki, tricks.
+* Opportunist 1-4     Saves, Aid, sneak attack, trapspotter
+* Ninja 3-6           More sneak attack, ki, tricks.
 
 ### Playbook
 

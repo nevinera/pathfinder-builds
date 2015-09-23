@@ -32,6 +32,7 @@ This is an unarmed variant on the warder gestalt. Inspiration from:
 * Aegis 1-2           Speed, Dex
 * Shadowdancer 1      HiPS
 * Aegis 3             Student of the Arcane Suit (mostly bonus damage)
+* Monk (MM) 2         Bonus Feat, Evastion
 * Stalker (SH) 1      Vanish, Ki pool, Soul Burn 1d6, Stealth Stance
 * Dragon Fury 1-2     More Ki, +1 damage/attack, Power attack++, Dance of TC (reuse counters)
 * Magus 1-4           More Casting, Spell Recall, 1 Arcana (Tattoos?)
@@ -46,18 +47,20 @@ This is an unarmed variant on the warder gestalt. Inspiration from:
   - (DDef 1) Two Weapon Fighting
 * Level 2
   - (LoWa 1) Deadly Agility
-* Level 3: Mobility
+* Level 3: Dodge
   - (LoWa 2) Combat Expertise
-  - (LoWa 2) Vicious Stomp
-* Level 5: Dodge
+  - (LoWa 2) Agile Maneuvers
+* Level 5: Mobility
 * Level 7: Student of the Astral Suit
-* Level 8: (Ward 8) Fury's Fall (dex to trip)
-* Level 9: Greater Trip
-* Level 11: Discipline Focus (BB)
+* Level 8:
+  - (Ward 8) Vicious Stomp
+  - (Monk 2) Greater Trip
+* Level 9: Discipline Focus (BB)
+* Level 11: Fury's Fall
 
 ### Playtest
 * Pick up a level of Harbringer for the +INT/2 to attack, 10' speed bonus
-* Use trait to get Mithral 
+* Use trait to get Mithral?
 
 ### Playbook
 

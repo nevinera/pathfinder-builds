@@ -47,3 +47,16 @@
   - Bonus Feat: Deadly Agility
 
 ### Level 3
+* Saves: 1.5/1.16/1.5
+* HD: d12
+* BAB: 3.0
+* Skills (10): Acro, Appraise, Know(Nob), Percept, Stealth, Heal, Perf(Dance), EscArtist, Fly, Ride
+* Level 3 Feat: Dodge
+* Class A: Warder (DD, SP)
+  - Can now learn level 2 Maneuvers
+  - New Maneuver Known (now 4/7): Sun Dips Low (Counter)
+  - Shared Counter (Counter for Adj Ally)
+* Class B: Fighter (LW)
+  - +2 Int Skills (included above)
+  - Bonus Feat: Agile Maneuvers
+  - Bonus Feat: Combat Expertise

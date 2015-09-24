@@ -1,6 +1,6 @@
 # Jillian, Level 1 Halfling Wilder/Everything
 
-Abi | V  | M 
+Abi | V  | M
 ----|----|---
 STR | 5  | -3
 DEX | 12 | +1
@@ -11,7 +11,7 @@ CHA | 20 | +5
 
 Save | Total | Frac | Base | Boost | Abi | Bonuses
 -----|-------|------|------|-------|-----|--------
-Fort |  +0   | 0.33 |  0   |   0   | +0  | +1 halfling luck
+Fort |  +1   | 0.33 |  0   |   0   | +0  | +1 halfling luck
 Refl |  +6   | 0.33 |  0   |   0   | +5  | +1 halfling luck, Cha v Dex Sidestep
 Will |  +5   | 0.50 |  0   |   2   | +2  | +1 halfling luck (+2 vs fear)
 
@@ -22,7 +22,7 @@ Touch AC| 16          | sidestep(cha), size
 Flat Ft | 14          | buckler, studded leather
 Max HP  | 8           | d8
 Init    | +1          | Dex
-BAB     | 0           | 
+BAB     | 0           |
 CMB     | -4          | str, size
 CMD     | 8           | str, dex, size
 Speed   | 30'         | +10 Speed of Thought feat

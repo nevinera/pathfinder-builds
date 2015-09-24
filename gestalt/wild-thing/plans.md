@@ -3,7 +3,7 @@
 * Race: Halfling
 * Class 1: Wilder 20
 * Class 2: Support Dips
-* Abilities: 6/9/12, 12/14/20
+* Abilities: 5/12/10, 12/14/20
 
 The objective here is to play a sneaky blaster that can heal reasonably well
 and provide utility via psionic powers. To that end, I will be spending most
@@ -24,21 +24,52 @@ more viable.
 * Monk (Kata Master) 1: +2 Fort/Refl at first level - panache pool, dodge and skill deeds.
   - Vow of Truth for one extra ki point? I'm going to be legalistic anyway..
 * Halfling Opportunist 4: sneak attack progression, +2 saves, trapspotter
+* Sorcerer (Xblooded: orc + draconic) 1: +1 damage per die, +2 damage per die on one element (cold?)
+  - Requires a feat (Wildblood Mage)
+
+### Hide in Plain Sight
+
+Qualifying for Shadowdancer as a caster is *hard*. We need Combat Reflexes, Dodge, and Mobility
+feats, two of which require 13 dex (we can get past that via monk 2). Overall, it might be better
+to just wait for level 9 (three levels later).. Overall, I'm inclined to abandon the build and aim
+for something that can go all day a little easier (doesn't use it's PP for it's main role).
+
+Other options:
+* Shadowdancer 1 (three feats, two of which require 13 dex)
+* Oracle 7 for Darkness Mystery (3pp)
+* Stygian Striker 10 (3pp)
+* Rogue (Hitman) 8 (3pp)
+* Nightblade 8 (3pp)
+* Sorcerer 9 for Shadow Bloodline
+* Cryptic 10
+* Bard 1 -> Ninja 3 -> Lion Blade 3 (and three feats, but not awful ones)
+* Invisibility Ring (20k)
 
 ### Dipping plan:
 
-* Oracle 1            AC/Reflex boost, basic healing
+* Oracle (Seeker) 1   AC/Reflex boost, basic healing, Trapfinding
 * Vitalist 1          Wilder healing over Network
+* Sorcerer 1          Bonus Blasting Damage. Some extra spells if I remove my armor
 * Aegis 1             Get my speed on
-* Paladin 1-2         +Cha to all saves. Smite affects spell touch attacks.
-* Aegis 2-3           Student of the astral suit
-* Ninja 1-2           Vanishing trick for safety
-* Stalker 1           Extra trick, stealth stance
+* Fighter (LW) 1      Bonus feat, int skills
 * Shadowdancer 1      Hide in Plain Sight
+* Stalker (SH) 1      Vanishing trick, stealth stance, +1d6 soul burn
+* Paladin 1-2         +Cha to all saves. Smite affects spell touch attacks.
+* Ninja 1-2           Loads more Ki, extra trick, 1d6 sneak attack
+* Aegis 2-3           Student of the Astral Suit
 * Monk (Kata Master)  Panache pool from Cha, two deeds to use it (physical skills, dodge). +2 AC
 * Cleric 1            +1 to all saves, Reroll knowledge skills 5/day (Protection, Memory)
 * Opportunist 1-4     Saves, Aid, sneak attack, trapspotter
 * Ninja 3-6           More sneak attack, ki, tricks.
+
+### Feats
+* Level 1: Combat Reflexes
+  - (wild 1) Psicrystal Affinity (Student's Surge)
+* Level 3: Wildblood Mage
+  - (sorc 1) Eschew Materials
+* Level 4 (Lore Warden): Dodge
+* Level 5: Mobility
+* Level 7: Student of the Astral Suit
 
 ### Playbook
 
@@ -59,7 +90,7 @@ Network healing and Student Surge (lots of extra powers from elsewhere) will all
 tolerably effective burst healer (I have a ton of PP); I can pick up the psionic wand equivalent
 to be a decent out-of-combat healer, and my bursts will allow me to heal a LOT with very little
 PP (by dazzling myself, which doesn't much affect healing). Later on, we'll use a TON of feats to
-pick up utility powers (summoning, levitation, controlling, etc). 
+pick up utility powers (summoning, levitation, controlling, etc).
 
 A secondary objective is to be sufficiently good at stealth to be a functional scout - the stealth
 stance from Stalker, and hide in plain sight will certainly do it, especially in a dungeon campaign.
@@ -87,7 +118,7 @@ to spend a couple of feats and traits to be effective as a skillmonkey.
 ### Feats of Interest
 * Extra Revelation
 * Psionic Meditation
-* Enlarge Power 
+* Enlarge Power
 * Extra Power Known
 * Student of the Astral Suit
 * Rime Power? Need cold descriptors..

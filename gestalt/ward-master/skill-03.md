@@ -7,7 +7,7 @@ Appraise             |   |  +8   | | |x|1|x| Int | +4  |
 Bluff                |   |  -2   | | | | | | Cha | -2  |
 Climb                |   |  +3   | |x| |1|x| Str | -1  |
 Diplomacy            |   |  -2   | | | | |x| Cha | -2  |
-Disable Device       | x |  +6   |x|x| |2| | Dex | +4  |
+Disable Device       | x |  +7   |x|x|x|3| | Dex | +4  |
                      |   |       | | | | | |     |     |
 Disguise             |   |  -2   | | | | | | Cha | -2  |
 Escape Artist        |   |  +9   |x| |x|2|x| Dex | +4  |
@@ -29,7 +29,7 @@ Know (Religion)      | x |       | | | | |x| Int | +4  |
                      |   |       | | | | | |     |     |
 Linguistics          | x |  +8   |x| | |1|x| Int | +4  |
 Perception           |   |  +4   | | |x|1|x| Wis | +0  |
-Perform (Dance)      |   |  +4   |x|x|x|3|x| Cha | -2  |
+Perform (Dance)      |   |  +3   |x|x| |2|x| Cha | -2  |
 Ride                 |   |  +4   | | | | |x| Dex | +4  |
 Sense Motives        |   |  +0   | | | | |x| Wis | +0  |
 Sleight of Hand      | x |       | | | | | | Dex | +4  |

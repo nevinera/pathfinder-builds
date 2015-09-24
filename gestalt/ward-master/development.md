@@ -50,7 +50,7 @@
 * Saves: 1.5/1.16/1.5
 * HD: d12
 * BAB: 3.0
-* Skills (10): Acro, Appraise, Know(Nob), Percept, Stealth, Heal, Perf(Dance), EscArtist, UMD, Surv
+* Skills (10): Acro, Appraise, Know(Nob), Percept, Stealth, Heal, EscArtist, UMD, Surv, DisDevice
 * Level 3 Feat: Dodge
 * Class A: Warder (DD, SP)
   - Can now learn level 2 Maneuvers

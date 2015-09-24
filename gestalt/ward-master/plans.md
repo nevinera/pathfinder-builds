@@ -32,7 +32,8 @@ This is an unarmed variant on the warder gestalt. Inspiration from:
 * Aegis 1-2           Speed, Dex
 * Shadowdancer 1      HiPS
 * Aegis 3             Student of the Arcane Suit (mostly bonus damage)
-* Monk (MM) 2         Bonus Feat, Evastion
+* Fighter (LW) 3      +2 to CMB/CMD
+* Monk (MM) 2         Bonus Feat, Evasion
 * Stalker (SH) 1      Vanish, Ki pool, Soul Burn 1d6, Stealth Stance
 * Dragon Fury 1-2     More Ki, +1 damage/attack, Power attack++, Dance of TC (reuse counters)
 * Magus 1-4           More Casting, Spell Recall, 1 Arcana (Tattoos?)

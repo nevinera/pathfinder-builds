@@ -46,7 +46,7 @@
 * HD: d10
 * BAB: 3.0
 * Favored Class Bonus: 1/6 Bladeskill (3/6)
-* Feats: Extra Blade Skill (Focused Defense)
+* Feats: Empowered Shot
 * Skills (4): Stealth, Perception, Disable Device, Know(Psion)
 * PP: 15 = 6 + 7 (wisdom 20, ML 3) + 2 (Psionic Talent)
 * Class A: Soulknife (Warsoul, Soulbolt)

@@ -25,7 +25,7 @@
   wisdom to damage. We'll put up with no bonus for a bit (using the medium form with 60' range)
   until we can get focused offense and extended range together.
 * The "Weapon Special" bladeskill is not disallowed for mindbolt, and can add trip to my bolt. Good
-  synergy with the trip-warder.
+  synergy with the trip-warder. http://www.giantitp.com/forums/showthread.php?223943-PF-DSP-Soulbolt-Ranged-Trip
 * Cloak Dance feat at level 9 gives us a gimped HiPS - we just need to take a move action each round
 * Chameleon psionic power is level 1, but not accessible. Possibly worth a feat (+10 stealth)
 * Sadist loses knacks for a minor and a huge benefit:
@@ -64,18 +64,20 @@
   - (SB 1): Psionic Talent
   - (Humn): Precise Shot
   - (Lv 1): Rapid Shot
-* Level 3: Extra Blade Skill (Focused Defense)
+* Level 3: Empowered Shot
 * Level 5: Psicrystal Affinity
 * Level 7: Manyshot
-* Level 9: Skill Focus (Stealth)? +6 next level..
+* Level 9: Extra Bladeskill (Weapon Special)
+* Level 11:
 
 ### Bladeskills:
 * Level 2: Focused Offense (Wis to attack/damage)
-* Level 6: Solar Wind Mentality
-* Level 6: Focused Defense (Wis to AC) (from favored class)
+* Level 6: Solar Wind Mentality (+1d6 fire damage)
+* Level 6: Freezing Bolt
 * Level 8: Veiled Moon Mystery (HiPS + stealth bonus)
-* Level 12:
-* Level 12:
+* Level 9: Weapon Special (from feat; add 'trip')
+* Level 12: Close Range Expert (No AoO for ranged attacks)
+* Level 12: Toppling Strike (from favored class)
 
 ### Playbook
 

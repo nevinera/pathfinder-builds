@@ -7,7 +7,7 @@ Appraise             |   |  +0   | | |   | Int | +0  |
 Bluff                |   |  -1   | | | x | Cha | -1  |
 Climb                |   |  -2   | | | x | Str | -2  |
 Diplomacy            |   |  -1   | | | x | Cha | -1  |
-Disable Device       | x |  +6   |x|1|   | Dex | +2  |
+Disable Device       | x |  +9   |x|1| x | wis | +5  | Wisdom in the Flesh
                      |   |       | | |   |     |     |
 Disguise             |   |  -1   | | |   | Cha | -1  |
 Escape Artist        |   |  +2   | | |   | Dex | +2  |
@@ -37,7 +37,7 @@ Sleight of Hand      | x |       | | |   | Dex | +2  |
 Spellcraft           | x |       | | | x | Int | +0  |
 Stealth              |   |  +6   |x|1| x | Dex | +2  |
 Survival             |   |  +5   | | | x | Wis | +5  |
-Swim                 |   |  +5   | | | x | Wis | +5  | Wisdom in the Flesh
+Swim                 |   |  -2   | | | x | Str | -2  |
 Use Magic Device     | x |       | | |   | Int | +0  |
 
 ### Notes

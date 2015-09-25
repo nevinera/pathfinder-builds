@@ -3,7 +3,7 @@
 ### Before Levels
 * Human (Alternate Racial Trait: Heart of the Slums)
 * Abilities (Start): 7/15/12, 10/20/8
-* Traits: Wisdom in the Flesh (Swim), Psionic Knack (Vitalist)
+* Traits: Wisdom in the Flesh (DisDevice), Psionic Knack (Vitalist)
 * Starting Equipment: Studded Leather, Brace of throwing knives, Buckler
 
 ### Level 1

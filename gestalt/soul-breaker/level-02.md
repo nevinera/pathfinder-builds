@@ -29,8 +29,6 @@ CMD     | 13            | 10, BAB, Str, Dex
 Speed   | 55'           | +25 from suit
 
 ### Active
-* Medium Soul Bolt +7 19-20/x2 (60') (d8 + d6f); +1/+1 if within 30'
-  - Medium Full Attack: 2x Bolt+5 (d8+d6f); +1/+1 if within 30'
 * Large Soul Bolt +7 19-20/x2 (20') (d8+5+d6f); +1/+1 if within 30'
   - Large Full Attack: 2x Bolt+5 (d8+5+d6f); +1/+1 if within 30'
 * Maneuvers (3 readied)

@@ -31,6 +31,8 @@
 * Sadist loses knacks for a minor and a huge benefit:
   - losing a collective member is good instead of bad. This is nice because constructs can be in it
   - deal extra bleed damage *every time you hurt something*. Fort save will be irritating.
+* Detect Psionics is Detect Magic, but with an augment available to boost identify (2pp for +10)
+  - http://www.d20pfsrd.com/psionics-unleashed/psionic-powers
 
 ### Feats of interest
 * Psicrystal affinity (for metamind)

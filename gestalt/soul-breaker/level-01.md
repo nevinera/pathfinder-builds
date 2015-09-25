@@ -25,7 +25,7 @@ Max PP  |  6            | Vitalist 1, Wisdom20/ML1, Psionic Talent
 Init    | +2            | Dex
 BAB     | 1             |
 CMB     | -1            | BAB, Str,
-CMD     | 12            | 10, BAB, Str, Dex
+CMD     | 11            | 10, BAB, Str, Dex
 Speed   | 30'           |
 
 ### Active

@@ -64,15 +64,18 @@
   - (SB 1): Psionic Talent
   - (Humn): Precise Shot
   - (Lv 1): Rapid Shot
-* Level 3: Psicrystal Affinity
-* Level 5: Psionic Shot
+* Level 3: Extra Blade Skill (Focused Defense)
+* Level 5: Psicrystal Affinity
 * Level 7: Manyshot
 * Level 9: Skill Focus (Stealth)? +6 next level..
 
 ### Bladeskills:
 * Level 2: Focused Offense (Wis to attack/damage)
 * Level 6: Solar Wind Mentality
+* Level 6: Focused Defense (Wis to AC) (from favored class)
 * Level 8: Veiled Moon Mystery (HiPS + stealth bonus)
+* Level 12:
+* Level 12:
 
 ### Playbook
 

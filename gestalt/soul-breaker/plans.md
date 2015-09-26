@@ -33,9 +33,40 @@
   - deal extra bleed damage *every time you hurt something*. Fort save will be irritating.
 * Detect Psionics is Detect Magic, but with an augment available to boost identify (2pp for +10)
   - http://www.d20pfsrd.com/psionics-unleashed/psionic-powers
+* Powerful Strikes can boost the augments on your power strike
+
+### Alternatives
+
+Instead of Metamind, we might take Psicrystal Imprinter - that gets us a *lot* of flexibility
+later on with powers. It was clearly not designed with the Vitalist power selection system in
+mind. This only works if we have enough downtime to imprint stuff though. Metamind exploits the
+same flaws - we can pick top-level powers to sequester and get a lot of pp in exchange for
+flexibility. Imprinter costs one more feat though - two crafting feats for consumables..
+
+We could also try prestiging out of Soulknife into Soul Archer, but it doesn't get us that much.
+Mostly we'd just get range, and trade a level of blade advancement for a feat and to resume
+psychic strike advancement. Seems a bit sketchy though - not sure how to handle psychic strike
+advancing in dark tempest too.
+
+If we're stopping by level 15ish, we should probably drop Metamind entirely, and dip another
+class - probably stalker(judge) at level 3. This would get us vanishing trick, Judgement (plus
+dispell magic) 1/day, discern lies, and a Domain or Inquisition (Conversion gets wis instead of
+cha for three skills, imprisonment gives useful entangles on ranged critical, Protection gives +1
+to all saves, travel gets 10' movement), and save 1 feat. We still lose power advancement,
+additionally lose PP advancement, but vanishing trick especially will help with how squishy I am.
+
+Another option: Awakened Blade. It costs a LOT of skill points (15, none of which I'd get otherwise),
+and two feats (one of which I wouldn't take). I only get 4 skill points per level, so it's probably
+off the table, but it's a very interesting option. I could even take it on the Soulknife side
+instead - it advances mindblade and martial disciplines, has full bab, and gives some nice bonuses
+(uncanny dodge, several useful feats, AC and initiative bonuses).
+
+We don't *have* to decide until level 5 hits, when we pick up psicrystal affinity - that's almost
+wasted if we don't need it for metamind 1.
 
 ### Feats of interest
-* Psicrystal affinity (for metamind)
+* Psychic Meditation (move action to refocus)
+* Deep Focus (two focuses)
 * Extra Bladeskill
 * Weapon Focus: Soulblade
 * Point Blank Shot: +1/+1 up to 30' away
@@ -68,7 +99,7 @@
 * Level 5: Psicrystal Affinity
 * Level 7: Manyshot
 * Level 9: Extra Bladeskill (Weapon Special)
-* Level 11:
+* Level 11: Psychic Meditation
 
 ### Bladeskills:
 * Level 2: Focused Offense (Wis to attack/damage)

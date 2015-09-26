@@ -34,6 +34,9 @@
 * Detect Psionics is Detect Magic, but with an augment available to boost identify (2pp for +10)
   - http://www.d20pfsrd.com/psionics-unleashed/psionic-powers
 * Powerful Strikes can boost the augments on your power strike
+* Might want to get Focused defense - it's only active while fighting defensively, so we'll need
+  to lose some attack to be sturdy. Overall, I think I'd rather just depend on Adam to keep them
+  away from me.
 
 ### Alternatives
 

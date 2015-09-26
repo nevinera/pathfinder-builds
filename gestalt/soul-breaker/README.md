@@ -18,3 +18,8 @@ Gestalt build for a Hurtful Healer
    already, none of which match).
 4. Downtime in campaign - I have some choices that would be *terrible* if I can't count
    on having days of downtime at least every 1-2 levels (Psycrystal Imprinter).
+5. Is Disable Device a Dex-based skill if I have Wisdom in the flesh applied? What about
+   stealth? (If stealth is not, I'll want WitF to be applied there, so I can wear medium
+   armor while I stealth. If both are, then I'm probably going to want to switch back
+   and forth between the armors. Chainmail has a -5 ACP, which will hurt my stealth quite
+   a lot. But I'm *awful* squishy without armor..

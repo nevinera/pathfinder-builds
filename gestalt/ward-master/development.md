@@ -8,7 +8,7 @@
 
 ### Level 1
 * Saves: 0.5/0.5/0.5
-* HD: d12
+* HD: d12 (12 + 1 + 1) = 14
 * BAB: 1.0
 * Favored Class Bonus: +1 HP
 * Level 1 Feat: Weapon Finesse
@@ -35,7 +35,7 @@
 
 ### Level 2
 * Saves: 1.0/0.83/1.0
-* HD: d12
+* HD: d12 ( + 6.5 + 1 + 1) = 22.5
 * BAB: 2.0
 * Skills (10): Acro, Climb, DisDevice, Heal, Know(Eng), Perf(Dance), SpellC, Stealth, UMD, Swim
 * Class A: Warder (Dervish Defender, Sworn Protector)
@@ -48,7 +48,7 @@
 
 ### Level 3
 * Saves: 1.5/1.16/1.5
-* HD: d12
+* HD: d12 (+ 6.5 + 1 + 1) = 31
 * BAB: 3.0
 * Skills (10): Acro, Appraise, Know(Nob), Percept, Stealth, Heal, EscArtist, UMD, Surv, DisDevice
 * Level 3 Feat: Dodge

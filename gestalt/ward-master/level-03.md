@@ -20,7 +20,7 @@ Stat    | Value         | Bonuses
 AC      | 22            | Dex, TWDef(Int), Studded Leather, Dodge
 Touch AC| 19            | Dex, TWDef(Int), Dodge
 Flat Ft | 17            | TWDef(Int), Studded Leather
-Max HP  | 32            | d12, Con, FavCls
+Max HP  | 31            | d12, Con, FavCls
 Init    | +4            | Dex
 BAB     | +3            |
 CMB     | +7            | BAB, Dex (AM), (+2 to trip: imp trip)

@@ -8,7 +8,7 @@
 
 ### Level 1
 * Saves: 0.5/0.5/0.5 (2/2/2)
-* HD: d10
+* HD: d10 (10 + 1) = 11
 * BAB: 1.0
 * Favored Class Bonus: 1/6 Bladeskill (1/6)
 * Skills (4): Stealth, Perception, Disable Device, Know(Psion)
@@ -27,7 +27,7 @@
 
 ### Level 2
 * Saves: 1.0/1.0/1.0 (2/2/2)
-* HD: d10
+* HD: d10 (+5.5 + 1) = 17.5
 * BAB: 2.0
 * Favored Class Bonus: 1/6 Bladeskill (2/6)
 * Skills (4): Stealth, Perception, Disable Device, Know(Psion)
@@ -43,7 +43,7 @@
 
 ### Level 3
 * Saves: 1.5/1.5/1.5 (2/2/2)
-* HD: d10
+* HD: d10 (+5.5 + 1) = 24
 * BAB: 3.0
 * Favored Class Bonus: 1/6 Bladeskill (3/6)
 * Feats: Empowered Shot

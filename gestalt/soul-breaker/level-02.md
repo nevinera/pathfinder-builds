@@ -20,7 +20,7 @@ Stat    | Value         | Bonuses
 AC      | 14            | Dex, Buckler
 Touch AC| 13            | Dex
 Flat Ft | 11            | Buckler
-Max HP  | 18            | d10, Con
+Max HP  | 17            | d10, Con
 Max PP  |  9            | Vitalist 1, Wisdom20/ML2, Psionic Talent
 Init    | +3            | Dex
 BAB     | 2             |

@@ -20,7 +20,7 @@ Stat    | Value         | Bonuses
 AC      | 21            | Dex, TWDef(Int), Studded Leather
 Touch AC| 18            | Dex, TWDef(Int)
 Flat Ft | 17            | TWDef(Int), Studded Leather
-Max HP  | 23            | d12, Con, FavCls
+Max HP  | 22            | d12, Con, FavCls
 Init    | +4            | Dex
 BAB     | 2             |
 CMB     | +1            | BAB, Str, (+2 to trip: imp trip)

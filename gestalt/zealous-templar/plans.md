@@ -21,6 +21,11 @@
 * We're going to wear serious armor this time - dex above 12 will be totally wasted.
 * We'll be fighting with a two-hander and a buckler.
 * Elan would get us the ability to spend Xpp to reduce taken damage by 2x as immediate action.
+* In my games, I'm going to rule that Revelations are progressed instead of Curses - that seems
+  more in-line with the domain advancement clerics get (Channel, for example, is an oracle
+  revelation, and is explicitly advanced by Templar). I'll build this character that way -
+  if it gets play on someone else's game who doesn't feel the same way, then you'll need to
+  change your revelations and possibly your mystery.
 
 ### Alternatives
 
@@ -48,6 +53,7 @@ can pick you up some extra defensive capabilities via archetypes, or tactical op
 * Martial Power (temp hp from attacking) (replaces combat expertise as a prereq)
 * Extra Conviction
   - Impulsive Reactions (+Cha AoO per round, AoO while FF)
-  -
 * Buckler Bash (bash with a buckler, for iron tortoise maneuvers)
 * Tactical Rush (1/combat, swift move)
+* Toughness
+* Die Hard

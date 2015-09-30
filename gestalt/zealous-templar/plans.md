@@ -1,31 +1,24 @@
 # Zealous Templar
 
-* Race: Human (Consider Elan)
+* Race: Human
 * Class A: Zealot 20
-* Class B: Oracle 3/Paladin 2/Battle Templar 9/Oracle 6
+* Class B: Oracle 5/Battle Templar 9/???
 * Abilities: 16+2/10/12, 10/8/16+2 (Dual Talented)
-* Traits: Magical Knack (Oracle), Reactionary
-* Role: Tank and Healer (yes, at the same time)
+* Traits: Reactionary
+* Role: Striker and Healer
 
 ### Notes
 * Battle Templar would be a two-class cheese move, but we're progressing maneuvers
   anyway, so the multi-advancement part isn't relevant. Hopefully your GM won't mind.
-* We're delaying Oracle casting by an extra two levels to get some paladin perks: Divine
-  Grace and  LoH. BT progresses LoH for us, and Divine Grace is AWESOME for any Cha character.
-  At 1/day, Smite Evil won't be a game-changer, but it is really nice to have when you need it.
-* Full Maneuver Progression - the new available disciplines are awesome for tanking.
 * Great action economy - Templar gets you all sorts of ways to use your spells without
-  stopping to actually cast them.
+  stopping to actually cast them, and you start to get free healing just for hitting things
+  at mid-levels.
 * We're going to be Str/Cha dependent, and Cha is really important. We're probably not going
   to top any damage charts, and we aren't optimizing for that.
 * We're going to wear serious armor this time - dex above 12 will be totally wasted.
-* We'll be fighting with a two-hander and a buckler.
-* Elan would get us the ability to spend Xpp to reduce taken damage by 2x as immediate action.
-* In my games, I'm going to rule that Revelations are progressed instead of Curses - that seems
-  more in-line with the domain advancement clerics get (Channel, for example, is an oracle
-  revelation, and is explicitly advanced by Templar). I'll build this character that way -
-  if it gets play on someone else's game who doesn't feel the same way, then you'll need to
-  change your revelations and possibly your mystery.
+* We'll be fighting with a two-hander, probably with reach.
+* BT specifically mentions "Channeling", but the language is fuzzy. We're going to assume
+  that it advances channeling from the Oracle of Life revelation too, but check with your GM.
 
 ### Alternatives
 
@@ -44,16 +37,20 @@ can pick you up some extra defensive capabilities via archetypes, or tactical op
 
 ### Feats
 
-* Power Attack (-1 atk, +2 dmg)
-* Extra Lay on Hands (2 extra/day)
-* Selective Channeling
-* Shield Focus (+1 AC)
-  * Greater Shield Focus (+1 more)
+- Required for Battle Templar
+  * Martial Power (temp hp from attacking) (replaces combat expertise as a prereq)
+  * Discipline Focus (Golden Lion)
+- Reach
+  * Lunge (BAB +6) (+5 reach for -2 AC)
+  * Phalanx Formation (No soft cover)
+  * Haft Strike (-2 AC to attack adjacent with reach)
+- Damage
+  * Power Attack (-1 atk, +2 dmg)
+  * Reckless Offense (-4 AC, +2 Attack)
+
 * Extra Readied Manuever
-* Martial Power (temp hp from attacking) (replaces combat expertise as a prereq)
 * Extra Conviction
-  - Impulsive Reactions (+Cha AoO per round, AoO while FF)
-* Buckler Bash (bash with a buckler, for iron tortoise maneuvers)
-* Tactical Rush (1/combat, swift move)
-* Toughness
-* Die Hard
+
+Convictions
+* Level 2: Impulsive Reactions (+Cha AoO per round, while FF)
+* Level 6:

@@ -6,8 +6,8 @@
 * Class B: Vitalist (Sadist) 4 -> Aegis (Trailblazer) 1 -> Metamind 4 -> Dark Tempest 10
 * Abilities: 7/15/12, 10/20/8
 * Traits
-  - Wisdom in the Flesh: Use wisdom instead of Strength for Swimming. It is a class skill
-  - Highlander (Hills or Mountains): +1 bonus to stealth. +2 in hills or rocky areas.
+  - Wisdom in the Flesh: Use wisdom instead of Dex for Disable Device. It is a class skill
+  - Psionic Knack (Vitalist) (+2 ML)
 
 ### Notes
 * Dark Tempest would be a 2-class cheese move, but I'm taking levels of soulknife at the same time,

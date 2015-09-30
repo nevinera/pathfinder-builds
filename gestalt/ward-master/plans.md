@@ -16,7 +16,6 @@ This is an unarmed variant on the warder gestalt. Inspiration from:
 * Rogue 1: Skills, Sneak Attack 1d6, trapfinding
 * Brawler 1: Martial Flexibility
 * Dragon Fury 2: +1 attack/damage, power attack, reuse counters
-* Shadowdancer 1: Hide in Plain Sight
 * Aegis 3 (Trailblazer): Student of the Astral Suit. Only if Ben approves a Light Armor option.
 * Ninja 2: more sneak attack, vanishing trick, ki pool
 * Stalker (Soul Hunter) 1: Extra Trick, stealth stance, soul burn 1d6
@@ -30,15 +29,10 @@ This is an unarmed variant on the warder gestalt. Inspiration from:
 * Maneuver Monk 1     Flurry of Maneuvers, Imp Unarmed, Imp Trip
 * Fighter (LW) 1-2    +2 skills, bonus feat x2, Combat Expertise
 * Aegis 1-2           Speed, Dex
-* Shadowdancer 1      HiPS
-* Aegis 3             Student of the Arcane Suit (mostly bonus damage)
-* Fighter (LW) 3      +2 to CMB/CMD
-* Monk (MM) 2         Bonus Feat, Evasion
-* Stalker (SH) 1      Vanish, Ki pool, Soul Burn 1d6, Stealth Stance
-* Dragon Fury 1-2     More Ki, +1 damage/attack, Power attack++, Dance of TC (reuse counters)
-* Magus 1-4           More Casting, Spell Recall, 1 Arcana (Tattoos?)
-* Witch 1             Ward Hex, Familiar, more arcane spells
-* Aegis or Magus X    Advance either casting or Astral Suit
+* Stalker (SH) 1      Combat Feat, Ki pool, Soul Burn 1d6, Stealth Stance
+* Aegis 3             Student of the Arcane Suit: +5 Reach
+* Magus 1-13          Arcane Casting, Spell Recall, Arcana, Spell Combat, Spell Strike, ENLARGE
+                      Arcana 3: Wand Wielder, Arcana 6: Ki Arcana? 3 points from Stalker..
 
 ### Feats Plan
 * Level 1: Weapon Finesse
@@ -48,16 +42,19 @@ This is an unarmed variant on the warder gestalt. Inspiration from:
   - (DDef 1) Two Weapon Fighting
 * Level 2
   - (LoWa 1) Deadly Agility
-* Level 3: Dodge
+* Level 3: Skill Focus (Stealth)
   - (LoWa 2) Combat Expertise
   - (LoWa 2) Agile Maneuvers
-* Level 5: Mobility
-* Level 7: Student of the Astral Suit
+* Level 5: Student of the Astral Suit
+* Level 6
+  - (Stkr 1) Greater Trip
+* Level 7: Hellcat Stealth
 * Level 8:
-  - (Ward 8) Vicious Stomp
-  - (Monk 2) Greater Trip
-* Level 9: Discipline Focus (BB)
-* Level 11: Fury's Fall
+  - (Ward 8) Fury's Fall
+* Level 9: Discipline Mastery
+* Level 11:
+* Level 12: Viscious Stomp
+  - (Mags 5)
 
 ### Playtest
 * Pick up a level of Harbringer for the +INT/2 to attack, 10' speed bonus

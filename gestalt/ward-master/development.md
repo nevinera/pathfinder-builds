@@ -37,7 +37,7 @@
 * Saves: 1.0/0.83/1.0
 * HD: d12 ( + 6.5 + 1 + 1) = 22.5
 * BAB: 2.0
-* Skills (10): Acro, Climb, DisDevice, Heal, Know(Eng), Perf(Dance), SpellC, Stealth, UMD, Swim
+* Skills (10): Acro, Climb, Heal, Know(Eng), SpellC, Stealth, UMD, Swim, Know(Arcana), Know(Dung)
 * Class A: Warder (Dervish Defender, Sworn Protector)
   - Armiger's Mark -4 (4 rounds, 5/day)
   - New Maneuver Known (now 4/6): Pommel Bash (+1d6, treat as flatfooted)
@@ -50,8 +50,8 @@
 * Saves: 1.5/1.16/1.5
 * HD: d12 (+ 6.5 + 1 + 1) = 31
 * BAB: 3.0
-* Skills (10): Acro, Appraise, Know(Nob), Percept, Stealth, Heal, EscArtist, UMD, Surv, DisDevice
-* Level 3 Feat: Dodge
+* Skills (10): Acro, Appraise, Know(Nob), Percept, Stealth, Heal, UMD, Surv, Know(Planes), Know(Rel)
+* Level 3 Feat: Skill Focus (Stealth)
 * Class A: Warder (DD, SP)
   - Can now learn level 2 Maneuvers
   - New Maneuver Known (now 4/7): Sun Dips Low (Counter)

@@ -17,8 +17,8 @@ Will |  +3   | 1.50 |  1   |   2   | +0  |
 
 Stat    | Value         | Bonuses
 --------|---------------|---------
-AC      | 22            | Dex, TWDef(Int), Studded Leather, Dodge
-Touch AC| 19            | Dex, TWDef(Int), Dodge
+AC      | 21            | Dex, TWDef(Int), Studded Leather
+Touch AC| 18            | Dex, TWDef(Int)
 Flat Ft | 17            | TWDef(Int), Studded Leather
 Max HP  | 31            | d12, Con, FavCls
 Init    | +4            | Dex

@@ -38,35 +38,6 @@
   to lose some attack to be sturdy. Overall, I think I'd rather just depend on Adam to keep them
   away from me.
 
-### Alternatives
-
-Instead of Metamind, we might take Psicrystal Imprinter - that gets us a *lot* of flexibility
-later on with powers. It was clearly not designed with the Vitalist power selection system in
-mind. This only works if we have enough downtime to imprint stuff though. Metamind exploits the
-same flaws - we can pick top-level powers to sequester and get a lot of pp in exchange for
-flexibility. Imprinter costs one more feat though - two crafting feats for consumables..
-
-We could also try prestiging out of Soulknife into Soul Archer, but it doesn't get us that much.
-Mostly we'd just get range, and trade a level of blade advancement for a feat and to resume
-psychic strike advancement. Seems a bit sketchy though - not sure how to handle psychic strike
-advancing in dark tempest too.
-
-If we're stopping by level 15ish, we should probably drop Metamind entirely, and dip another
-class - probably stalker(judge) at level 3. This would get us vanishing trick, Judgement (plus
-dispell magic) 1/day, discern lies, and a Domain or Inquisition (Conversion gets wis instead of
-cha for three skills, imprisonment gives useful entangles on ranged critical, Protection gives +1
-to all saves, travel gets 10' movement), and save 1 feat. We still lose power advancement,
-additionally lose PP advancement, but vanishing trick especially will help with how squishy I am.
-
-Another option: Awakened Blade. It costs a LOT of skill points (15, none of which I'd get otherwise),
-and two feats (one of which I wouldn't take). I only get 4 skill points per level, so it's probably
-off the table, but it's a very interesting option. I could even take it on the Soulknife side
-instead - it advances mindblade and martial disciplines, has full bab, and gives some nice bonuses
-(uncanny dodge, several useful feats, AC and initiative bonuses).
-
-We don't *have* to decide until level 5 hits, when we pick up psicrystal affinity - that's almost
-wasted if we don't need it for metamind 1.
-
 ### Feats of interest
 * Psychic Meditation (move action to refocus)
 * Deep Focus (two focuses)
@@ -86,11 +57,9 @@ wasted if we don't need it for metamind 1.
 * Vitalist 1
 * Aegis (Trailblazer) 1
 * Vitalist 2-4
-* Metamind 1
-* Dark Tempest 1-3
-* Metamind 2-4
-* Dark Tempest 4-10
-* Vitalist 5, I guess?
+* Stalker (judge) 1
+* Dark Tempest 1-10
+* Vitalist 4, I guess?
 
 ### Feats Plan
 * Level 1
@@ -101,13 +70,13 @@ wasted if we don't need it for metamind 1.
 * Level 3: Empowered Shot
 * Level 5: Psicrystal Affinity
 * Level 7: Manyshot
-* Level 9: Extra Bladeskill (Weapon Special)
-* Level 11: Psychic Meditation
+* Level 9: Discipline Mastery
+* Level 11: Extra Bladeskill (Weapon Special)
 
 ### Bladeskills:
 * Level 2: Focused Offense (Wis to attack/damage)
 * Level 6: Solar Wind Mentality (+1d6 fire damage)
-* Level 6: Freezing Bolt
+* Level 6: Freezing Bolt (from favored class)
 * Level 8: Veiled Moon Mystery (HiPS + stealth bonus)
 * Level 9: Weapon Special (from feat; add 'trip')
 * Level 12: Close Range Expert (No AoO for ranged attacks)

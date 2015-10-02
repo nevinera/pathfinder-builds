@@ -47,7 +47,7 @@ This is an unarmed variant on the warder gestalt. Inspiration from:
   - (LoWa 2) Agile Maneuvers
 * Level 5: Student of the Astral Suit
 * Level 6
-  - (Stkr 1) Greater Trip
+  - (Stkr 1) Greater Trip (OR Improved Reposition)
 * Level 7: Hellcat Stealth
 * Level 8:
   - (Ward 8) Fury's Fall

@@ -56,10 +56,6 @@ This is an unarmed variant on the warder gestalt. Inspiration from:
 * Level 12: Viscious Stomp
   - (Mags 5)
 
-### Playtest
-* Pick up a level of Harbringer for the +INT/2 to attack, 10' speed bonus
-* Use trait to get Mithral?
-
 ### Playbook
 
 We want to be a very effective tank, be able to deal lots of damage, add some occasional utility,
@@ -107,7 +103,3 @@ but by that point I'll generally be able to precast and then pounce into combat.
 * Psionic Trip
 * Combat Expertise
 * Fury's Fall (Dex to Trip CMB)
-
-### Playtest
-If Ben will allow stuff from the current PoW2 playtest, Mithril Current provides interesting
-options for countering.

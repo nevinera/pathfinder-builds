@@ -4,6 +4,15 @@ This character uses the Mystic down one side, and levels Cleric -> Battle Templa
 on the other. Initiation and Casting stat is wisdom, and we need the Unorthodox
 Method trait to pick up Golden Lion so we can qualify for Templar.
 
+* Playtest thread: http://www.giantitp.com/forums/showthread.php?444869-Dreamscarred-Press-Path-of-War-Expanded!-(Thread-VII)
+* Classes:
+  * Mystic Doc: https://docs.google.com/document/d/1AtQz8XFrmiBFJxjcatyiodJjo3FebF-WzFOh3XfEDtQ/edit
+  * Animus Adept: https://docs.google.com/document/d/1-q23BMWM3UE-rStFb5FPuDItrSbTGr6Fl_57duN57gk/edit
+* Disciplines:
+  * Elemental Flux: https://docs.google.com/document/d/14BiQj1sEeeEH0Nbyiyf-o0Kg4N5uDM5XwwqeWOJ21dI/edit
+  * Riven Hourglass: https://docs.google.com/document/d/1rmHuI_JcLiDJ2_g0jyrP0lQ1a8wyXh-yL4-3njLpnZk/edit
+  * Shattered Mirror: https://docs.google.com/document/d/1A5i_oxGQJUIhIolHf8IMQF9Q6BsuMtKOr6szdvJv5FY/edit
+
 * Initiating:
   - Mystic 1-5
   - Animus Adept 1-5
